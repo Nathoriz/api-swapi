@@ -1,5 +1,15 @@
 # ![icon-document](https://github.com/Gloper98/Cifrado-cesar-/raw/master/assets/images/icon-document.png "document") SWAPI
-![star-wars-demo](https://raw.githubusercontent.com/Gloper98/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
+
+XMLHTTPREQUEST version
+![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
+>Producto Final: SWAPI-demo.
+
+La presente es una **pagina web** que busca personajes de Star Wars de forma aleatoria con sus caracteristicas respectivas de `mass`, `height` y `birthday_year` gracias al [SWAPI](https://swapi.co/).  
+
+_This is a **website** that searches for characters related to Star Wars thanks to the **Star Wars API**_
+
+AXIOS version
+![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
 La presente es una **pagina web** que busca personajes de Star Wars de forma aleatoria con sus caracteristicas respectivas de `mass`, `height` y `birthday_year` gracias al [SWAPI](https://swapi.co/).  
@@ -45,6 +55,8 @@ _This is a **website** that searches for characters related to Star Wars thanks 
   _About_ **The javascript new version**.
 * [AJAX: ](https://www.w3schools.com/xml/ajax_intro.asp)Acerca de `Ajax`.  
   _About_ **ajax**.
+* [AXIOS: ](https://cdnjs.com/libraries/axios)Acerca de `axios`.  
+  _About_ **axios**.
 
 >Learn more: [Youtube Star Wars API and JavaScript tutorial](https://www.youtube.com/watch?v=cw-B-fxBcRg);
 
