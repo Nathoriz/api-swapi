@@ -1,7 +1,7 @@
 # ![icon-document](https://github.com/Gloper98/Cifrado-cesar-/raw/master/assets/images/icon-document.png "document") SWAPI
 
 ## XMLHTTPREQUEST version(master branch)
-![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
+![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star2.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
 Pagina web para amantes de 'Star Wars' donde podras buscar tus personajes favoritos y saber la información relacionada a ellos con tan solo dando un click sobre la imagen respectiva.
