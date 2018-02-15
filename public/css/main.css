@@ -9,11 +9,22 @@
 }
 
 .h-50vh {
-  /* height: 50vh; */
+  height: 50vh;
+}
+
+.h-15vh {
+  height: 15vh;
 }
 
 .bold {
   font-weight: bold;
+}
+
+.bg-starwars {
+  background-image: url(../assets/images/fondo-starwars.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .bg-starwars {
