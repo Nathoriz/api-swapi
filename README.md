@@ -1,6 +1,6 @@
 # ![icon-document](https://github.com/Gloper98/Cifrado-cesar-/raw/master/assets/images/icon-document.png "document") SWAPI
 
-XMLHTTPREQUEST version(master branch)
+## XMLHTTPREQUEST version(master branch)
 ![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
@@ -8,7 +8,7 @@ La presente es una **pagina web** brinda informacion de los  personajes de Star 
 
 _This is a website provides information about the Star Wars characters thanks to **SWAPI**, when the user clicks on the respective image_
 
-AXIOS version(anny branch)
+## AXIOS version(anny branch)
 ![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
