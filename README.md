@@ -1,14 +1,14 @@
 # ![icon-document](https://github.com/Gloper98/Cifrado-cesar-/raw/master/assets/images/icon-document.png "document") SWAPI
 
-XMLHTTPREQUEST version
+XMLHTTPREQUEST version(master branch)
 ![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
-La presente es una **pagina web** que busca personajes de Star Wars de forma aleatoria con sus caracteristicas respectivas de `mass`, `height` y `birthday_year` gracias al [SWAPI](https://swapi.co/).  
+La presente es una **pagina web** brinda informacion de los  personajes de Star Wars gracias a [SWAPI](https://swapi.co/), cuando el usuario le da click a la imagen respectiva  
 
-_This is a **website** that searches for characters related to Star Wars thanks to the **Star Wars API**_
+_This is a website provides information about the Star Wars characters thanks to **SWAPI**, when the user clicks on the respective image_
 
-AXIOS version
+AXIOS version(anny branch)
 ![star-wars-demo](https://raw.githubusercontent.com/Nathoriz/api-swapi/anny/public/assets/img/star.gif "star-wars-demo")
 >Producto Final: SWAPI-demo.
 
