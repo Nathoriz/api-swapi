@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	color: #ffc107;
+	margin-top: 2em;
+}
+
+h2, p {
+	color: #c7ced8;
+}
+
+body {
+	background-color: #000;
+}
+
+.info-container {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border: 5px solid #FFC107;
+	border-radius: 7px;
+	width: 28em;
+	height: 18em;
+	margin-left:10em;
+}
