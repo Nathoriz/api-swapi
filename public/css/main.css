@@ -17,12 +17,11 @@ body {
 	background-color: #000;
 }
 
-.info-container {
-	margin-top: 2em;
+.info-container {;
 	margin-bottom: 2em;
 	border: 5px solid #FFC107;
 	border-radius: 7px;
-	width: 28em;
+	width: auto;
 	height: 18em;
-	margin-left:10em;
+	margin: 2em 1em;
 }
