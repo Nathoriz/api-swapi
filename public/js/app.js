@@ -38,13 +38,13 @@ function addNews() {
 
 
     let div = document.createElement('div');
-    div.className = 'col-sm-4';
+    div.className = 'col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4 mr-5 ml-5';
     div.setAttribute('data-name', name); 
     div.style.backgroundImage = "url('../assets/images/characters/" + name + ".jpg')";
     div.style.backgroundPosition = 'center center';
     div.style.backgroundRepeat = 'no repeat';
     div.style.backgroundSize = 'cover';
-    div.style.height = '25vh';
+    div.style.height = '60vh';
 
     responseContainer.appendChild(div);
     // console.log(data);

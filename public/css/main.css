@@ -1,11 +1,11 @@
 /* Index */
 
-.h-100vh {
-  height: 100vh;
+.minH-100vh {
+  min-height: 100vh;
 }
 
-.w-100 {
-  /* width: 100%; */
+.h-100vh {
+  height: 100vh;
 }
 
 .h-50vh {
@@ -25,11 +25,5 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.bg-starwars {
-  background-image: url(../assets/images/fondo-starwars.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 100%;
 }
